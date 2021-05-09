@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Windows 10\\.nuget\\packages\\": {}
+    "C:\\Users\\phu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\SmartLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\SmartLibrary.csproj",
       "projectName": "SmartLibrary",
-      "projectPath": "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\SmartLibrary.csproj",
-      "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\obj\\",
+      "projectPath": "C:\\Users\\Phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\SmartLibrary.csproj",
+      "packagesPath": "C:\\Users\\phu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

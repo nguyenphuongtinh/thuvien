@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\SmartLibrary.csproj": {}
+    "C:\\Users\\phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\SmartLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\SmartLibrary.csproj": {
+    "C:\\Users\\phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\SmartLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\SmartLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\SmartLibrary.csproj",
         "projectName": "SmartLibrary",
-        "projectPath": "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\SmartLibrary.csproj",
-        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\OneDrive - Công ty TNHH MTV Cỏ May Automation\\Desktop\\thuvien\\SmartLibrary\\SmartLibrary\\obj\\",
+        "projectPath": "C:\\Users\\phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\SmartLibrary.csproj",
+        "packagesPath": "C:\\Users\\phu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phuong Tinh\\Desktop\\thu vien\\thuvien\\SmartLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
